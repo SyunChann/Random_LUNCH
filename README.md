@@ -15,10 +15,10 @@
 
 ## 🖥️ 미리보기
 ### **랜덤 메뉴 추천 화면**
-![랜덤 메뉴 추천](https://raw.githubusercontent.com/SyunChann/Random_LUNCH/main/assets/random_lunch_ui.png)
+![랜덤 메뉴 추천](https://raw.githubusercontent.com/SyunChann/Random_LUNCH/main/wwwroot/assets/random_lunch_ui.png)
 
 ### **Google 스프레드시트 데이터**
-![데이터 스프레드시트](https://raw.githubusercontent.com/SyunChann/Random_LUNCH/main/assets/lunch_menu_spreadsheet.png)
+![데이터 스프레드시트](https://raw.githubusercontent.com/SyunChann/Random_LUNCH/main/wwwroot/assets/lunch_menu_spreadsheet.png)
 
 📌 **데이터 출처**: [Google 스프레드시트 링크](https://docs.google.com/spreadsheets/d/1lMZplkWXUbBaZCiPwYDijHtctIO5Rgb-81F5QX3Tgqs/edit?gid=0)
 
